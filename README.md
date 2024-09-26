@@ -1,0 +1,2 @@
+# NeteaseMCChatMessageAutoSender
+通过模拟按键自动发送聊天消息的一个简单python脚本
